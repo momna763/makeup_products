@@ -1,0 +1,34 @@
+body {
+    background-color: #f0f0f0ea;
+}
+h1 {
+    text-align: center;
+}
+table {
+    border: 0px;
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+td {
+    border: 2px solid black;
+    padding: 20px;
+}
+
+.order {
+    background-color: #b89c01;
+    border-radius: 70%;
+    text-align: center;
+    padding: 10px;
+    width: 100px;
+
+}
+img 
+{
+    width: 200px;
+    height: 200px;
+
+}
+
